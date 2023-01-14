@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/hieptran51"><img src="https://api.daily.dev/devcards/3e4800c62ccf49e0ba5a7cdf075076ba.png?r=ne0" width="400" alt="Tran Duc Hiep's Dev Card"/></a>
+<a href="https://app.daily.dev/hieptran51"><img src="https://github.com/duchiep51/duchiep51/blob/master/devcard.svg" width="400" alt="Tran Duc Hiep's Dev Card"/></a>
 
 <!--
 **duchiep51/duchiep51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
